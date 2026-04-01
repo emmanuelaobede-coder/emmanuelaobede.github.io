@@ -1,5 +1,5 @@
 # emmanuelaobede.github.io
-# [Emmanuela Obede] | Portfolio
+# Emmanuela Obede | Portfolio
 
 Welcome to my professional portfolio! I'm a network engineer turned cybersecurity professional with hands-on TAC experience, an Advanced Diploma in Network Technology, and a final-year BCA in Cybersecurity.
 
